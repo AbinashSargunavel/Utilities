@@ -1,0 +1,32 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Quick-GUI-Update.lvclass:Get-FP-All-Ctrl-Ref.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="3271"/>
+          <SignalUID value="1980"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Quick-GUI-Update.lvclass:List-All-Label's.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="518"/>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>

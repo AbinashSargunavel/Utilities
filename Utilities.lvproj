@@ -16,9 +16,7 @@
 		<Item Name="Quick-GUI-Update" Type="Folder" URL="../Quick-GUI-Update">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Test VI&apos;s" Type="Folder" URL="../Test VI&apos;s">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
+		<Item Name="Test-Quick GUI Toolkit.vi" Type="VI" URL="/D/LabVIEW Module&apos;s/TCP-IP Engine/Tx-To-Client/Tx-To-Client/Test-Quick GUI Toolkit.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
