@@ -1,7 +1,7 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
-    <VI name="Quick-GUI-Update.lvclass:Get-FP-All-Ctrl-Ref.vi">
+    <VI name="Easy GUI Operation.lvlib:Quick-GUI-Update.lvclass:Get-FP-All-Ctrl-Ref.vi">
       <Breakpoints>
         <NodeIndexes>
         </NodeIndexes>
@@ -15,7 +15,7 @@
         </Generic>
       </Probes>
     </VI>
-    <VI name="Quick-GUI-Update.lvclass:List-All-Label's.vi">
+    <VI name="Easy GUI Operation.lvlib:Quick-GUI-Update.lvclass:List-All-Label's.vi">
       <Breakpoints>
         <NodeIndexes>
         </NodeIndexes>
